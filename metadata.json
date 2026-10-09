@@ -1,0 +1,6 @@
+{
+  "name": "RINAYA Guardian AI",
+  "description": "AI-powered parental guardian and mentoring platform transforming child digital wellness, addiction detection, and cyber safety.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
